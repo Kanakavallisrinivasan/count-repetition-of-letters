@@ -1,0 +1,3 @@
+Enter_string="Mississippi"
+import collections
+print(collections.Counter(Enter_string))
